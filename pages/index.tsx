@@ -1,4 +1,5 @@
 import Layout from "../components/layout"
+import { Alert } from "flowbite-react";
 
 export default function IndexPage() {
   return (
